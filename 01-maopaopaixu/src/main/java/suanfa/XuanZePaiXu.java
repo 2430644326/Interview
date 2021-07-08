@@ -1,3 +1,5 @@
+package suanfa;
+
 import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
 
 /**
@@ -29,4 +31,6 @@ public class XuanZePaiXu {
             }
 
     }
+
+
 }

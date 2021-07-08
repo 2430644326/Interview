@@ -1,3 +1,5 @@
+package suanfa;
+
 import sun.awt.image.OffScreenImage;
 
 /**

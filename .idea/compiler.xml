@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="01maopaopaixu" target="1.5" />
+      <module name="01maopaopaixu" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
